@@ -16,13 +16,13 @@ navigation:
    url: /index.html
  - title: About
    url: /about
- - title: Contact
-   url: /contact
+ # - title: Contact
+ #   url: /contact
 
 social:
    github: wesleywillis
    twitter: weswilliscodes
-  #  facebook: 
+  #  facebook:
    email: haileyw@gmail.com
 
 # google_analytics:
