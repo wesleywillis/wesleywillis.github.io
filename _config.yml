@@ -1,6 +1,6 @@
 title: Hailey Willis
-description:
-
+description: Hailey Willis
+title: Hailey Willis
 url: http://haileywillis.com
 baseurl: ""
 paginate_path: "blog/page:num/"
@@ -20,8 +20,8 @@ navigation:
  #   url: /contact
 
 social:
-   github: wesleywillis
-   twitter: weswilliscodes
+   github: yourFriendWes
+   twitter: haileyIsFriend
   #  facebook:
    email: haileyw@gmail.com
 
